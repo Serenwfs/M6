@@ -1,0 +1,151 @@
+Instrument_ID,Name,Ethnic_Influence,Chord_Progression,Song_ID,Mood_ID
+1,Percussion,African American,none ,1,3
+2,Synth,western,G-Em-Bm-C#dim ,1,14
+3,Base ,western,none ,1,14
+4,electric piano,western,F-C-Db-Eb ,3,10
+5,vocals,english,none ,3,15
+6,drums/tambourine,folk,none,2,11
+7,vocals,english,none,2,15
+8,bass,western,G-D-A-E ,2,10
+9,electric guitar,western,Em-A-D-CAm-Dsus4-G ,2,13
+10,synth,western,Gmaj7-Bₘ-D-Dmaj8,4,10
+11,bass,western,G-D-E-A ,4,10
+12,drums ,western,none ,4,16
+13,vocals,french,noe,4,16
+14,Acoustic guitar,western,G-G4-Em7-Em6,5,11
+15,vocals ,western,none ,5,12
+16,piano ,western,D-B7-Em-Em7-G/A-A,6,17
+17,guitar ,western,D-B7-Em-Em7-G/A-A,6,17
+18,strings ,western,D-B7-Em-Em7-G/A-A,6,17
+19,drums,western,none,6,11
+20,vocals ,french,none,6,7
+21,background vocals,western ,none ,6,18
+22,piano ,western ,C-D-Em-Em7/D,7,5
+23,drums ,western ,none ,7,15
+24,vocals ,western ,none ,7,15
+25,drum ,western,none ,8,3
+26,vocals ,western,none ,8,3
+27,synth ,western,Gmaj7-Em-Bm-Em-Am,8,13
+28,piano ,western,C-E-Fmaj7-Am-Dm-G7-7,9,5
+29,vocals ,western ,none ,9,5
+30,piano ,western ,none ,10,10
+31,flute ,western ,none ,10,1
+32,synth ,western ,none ,10,1
+33,vocal,western ,none ,10,12
+34,drums ,western ,none ,10,10
+35,bass,western ,Bmaj7-B7-Emaj7-Amaj7... ,11,11
+36,keyboard ,western ,Bmaj7-B7-Emaj7-Amaj7... ,11,1
+37,drums ,western ,none ,11,1
+38,vocals,western ,none ,11,1
+39,synth ,western ,none,14,14
+40,guitar ,African ,Em-Bm7-Cmaj7-D6  ,21,3
+41,drums,African ,none ,21,3
+42,drums ,African ,none ,23,3
+43,drum,western,none,24,3
+44,string,western,Am-G-F-E7,24,3
+45,bass,western,Am-G-F-E8,24,3
+46,vocal,western,Am-G-F-E9,24,3
+47,piano ,western ,"F#m-D-D-E A-D-C#7
+",25,10
+48,drums,western ,none,25,11
+49,vocal,western,none,25,12
+50,bass,western ,Em-Am-C-B7-Bmadd11/A-Gadd11/A -Bm7/A-Gadd9/E    ,26,14
+51,vocals ,western,none,26,14
+52,drums ,western,none,26,3
+53,strings ,western,Em-Am-C-B7-Bmadd11/A-Gadd11/A -Bm7/A-Gadd9/E,26,14
+54,vocals,western,none ,27,15
+55,bass,western,C-D-Bm-Em ,27,15
+56,drums,western,none,27,10
+57,syntn,western,"Dm7 Em7 Am7
+Dm7 Em7",29,14
+58,drums,western,none ,29,3
+59,keyboard,western,"Dm7 Em7 Am7
+Dm7 Em7",29,1
+60,vocals ,western,none,29,16
+61,guitar ,western,"Dm7 Em7 Am7
+Dm7 Em7",30,1
+62,bass ,western,"Dm7 Em7 Am7
+Dm7 Em7",30,3
+63,drums ,western,none,30,3
+64,vocals,western,none ,30,16
+65,piano,western,"Em-C -G
+",31,7
+66,guitar ,western,"Em-C -G
+",31,13
+67,drums ,,none,31,13
+68,vocals,western,none,31,13
+69,sytnth,western,G-C-Em-C,32,3
+70,strings ,western,G-C-Em-C,32,7
+71,drums ,western,none,32,3
+72,strumpet,latin,"Am-F-G-Em-F-G-Am
+",33,13
+73,drums ,latin ,none,33,1
+74,guitar ,latin ,none ,33,16
+75,guitar ,western," Am-F-Am-F
+",35,8
+76,drums ,western,none,35,8
+77,bass,western,Am-F-Am-F,35,8
+78,vocals,western,none,35,8
+79,piano ,western,Em-Am,36,7
+80,guitar,western,Em-G--D-Em,36,19
+81,drums ,western,none,36,19
+82,vocal,western,none,36,7
+83,guitar ,western,"Em-A-G-C 
+",39,19
+84,bass,western,Em-A-G-C,39,14
+85,vocals ,western,none,39,19
+86,drums ,western,none,39,19
+87,guitar ,western,E-D-A/C#,41,19
+88,drums ,western,none,41,19
+89,vocal,western,none,41,19
+90,synth,western,Cₘ-A♭-Fₘ-Gₘ,42,15
+91,vocals ,western,none,42,3
+92,drums,western,none ,42,3
+93,synth,western,Gₘ-E♭-Aₘ-Cₘ,45,20
+94,drums ,western,none,45,3
+95,drums ,western,none,49,18
+96,guitar ,western,C-Am-Em-G,49,18
+97,vocals ,western,none,49,7
+98,vocals,western,none,50,16
+99,drums ,western,none,50,12
+100,guitar ,western,D-Em-Dm-Em,50,12
+101,vocals ,western,none,55,6
+102,drums ,western,none,55,11
+103,guitar,western,E-F#m-B-B7th,55,11
+104,vocals ,western,none,56,5
+105,piano ,western,Em-A-G,56,7
+106,drums ,western,none,56,11
+107,drums,western,none,57,17
+108,vocals,western,none,58,2
+109,guitar ,western,Am7-C-Fmaj7,58,2
+110,strings ,western,Am7-C-Fmaj7,58,17
+111,vocals,western,none,59,12
+112,synth ,western,Am-Bm-Bmaj7/Db-Em ,59,9
+113,drums ,western,none,59,16
+114,bass ,western,Am-Bm-Bmaj7/Db-Em ,59,16
+115,keyboard ,western,G⁷Cₘ⁷Fₘ⁷Dₘ⁷,60,16
+116,drums,western,none,60,10
+117,vocals ,french,none,60,16
+118,vocal,western ,none,62,12
+119,drums ,western ,none,62,10
+120,guitar,western ,D♯ₘ⁷C♯BA♯⁷,62,12
+121,piano,western ,D♯ₘ⁷C♯BA♯⁷,62,4
+121,vocals,western ,none,63,6
+123,strings,western ,Fᵐᵃʲ⁷D⁷Gₘ⁷B♭ₘ,63,12
+124,guitar,western ,Fᵐᵃʲ⁷-D⁷-Gₘ⁷-B♭ₘ,63,18
+125,drums ,western ,none,63,11
+126,vocal ,western ,none,64,12
+127,drums,African,none,66,3
+128,guitar,African,BₘEₘAₘC,66,17
+129,vocals ,African,none,66,17
+130,drums ,African,none,67,3
+131,synth ,African,B-E♭ₘ-B♭ₘ-A-♭ₘ,67,9
+132,synth,African,E♭FₘCₘ⁷D♭,69,17
+133,bass ,African,E♭FₘCₘ⁷D♭,69,14
+134,drums,African,none,69,3
+135,vocal ,African,none,69,1
+136,vocal,African,none,70,1
+137,drums ,African,none,70,3
+138,guitar,African,B-E-F♯,71,17
+139,strings,African,B-E-F♯,71,17
+140,drums,African,none,71,1

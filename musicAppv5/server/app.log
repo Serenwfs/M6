@@ -1,0 +1,65 @@
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 873-958-993
+werkzeug - INFO - 127.0.0.1 - - [10/May/2024 08:27:54] "OPTIONS /api/make_song HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [10/May/2024 08:27:54] "[31m[1mPOST /api/make_song HTTP/1.1[0m" 422 -
+werkzeug - INFO - 127.0.0.1 - - [10/May/2024 08:28:03] "OPTIONS /api/login HTTP/1.1" 200 -
+mysql.connector - DEBUG - Building SSL context
+mysql.connector - DEBUG - Switching to SSL
+mysql.connector - DEBUG - SSL has been enabled
+mysql.connector - DEBUG - Starting authorization phase
+mysql.connector - DEBUG - The provided initial strategy is mysql_native_password
+mysql.connector - INFO - package: mysql.connector.plugins
+mysql.connector - INFO - plugin_name: mysql_native_password
+mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+mysql.connector - DEBUG - Server's response is an auth switch request
+mysql.connector - DEBUG - Switching to strategy caching_sha2_password
+mysql.connector - INFO - package: mysql.connector.plugins
+mysql.connector - INFO - plugin_name: caching_sha2_password
+mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+mysql.connector - DEBUG - # request: b'\xff\x9f\xb5"\xa6\\\xcc\xbe%\x80\xbe*\x86Id\xbf\xd8\x96\xdf\xd0K\xa8\x1d\x92\x96\xa4\xba\x15b\xe0\x14\x91' size: 32
+mysql.connector - DEBUG - # server response packet: b'\x02\x00\x00\x05\x01\x03'
+mysql.connector - DEBUG - Exchanging further packets
+mysql.connector - DEBUG - caching_sha2_password completed succesfully
+werkzeug - INFO - 127.0.0.1 - - [10/May/2024 08:28:04] "POST /api/login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [10/May/2024 08:28:04] "OPTIONS /api/genres HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [10/May/2024 08:28:04] "OPTIONS /api/genres HTTP/1.1" 200 -
+mysql.connector - DEBUG - Building SSL context
+mysql.connector - DEBUG - Switching to SSL
+mysql.connector - DEBUG - SSL has been enabled
+mysql.connector - DEBUG - Starting authorization phase
+mysql.connector - DEBUG - The provided initial strategy is mysql_native_password
+mysql.connector - DEBUG - Server's response is an auth switch request
+mysql.connector - DEBUG - Switching to strategy caching_sha2_password
+mysql.connector - DEBUG - # request: b']\xb5\xd3;}\x1a\x0f\xf2$_\xb0VGd:\xae\x92\x1b\xec\xfev]\xa7X\xfc>9I\xcf\xfa\xdb\xb6' size: 32
+mysql.connector - DEBUG - # server response packet: b'\x02\x00\x00\x05\x01\x03'
+mysql.connector - DEBUG - Exchanging further packets
+mysql.connector - DEBUG - caching_sha2_password completed succesfully
+werkzeug - INFO - 127.0.0.1 - - [10/May/2024 08:28:04] "GET /api/genres HTTP/1.1" 200 -
+mysql.connector - DEBUG - Building SSL context
+mysql.connector - DEBUG - Switching to SSL
+mysql.connector - DEBUG - SSL has been enabled
+mysql.connector - DEBUG - Starting authorization phase
+mysql.connector - DEBUG - The provided initial strategy is mysql_native_password
+mysql.connector - DEBUG - Server's response is an auth switch request
+mysql.connector - DEBUG - Switching to strategy caching_sha2_password
+mysql.connector - DEBUG - # request: b'\xd8ixt\xacR\xa4]\xa1\xe5\xfa\xa3\xbb\xc3\xe7V\n\x1fi\x87\x01\xf6\xc1\x0c\nm\xfc\xb8y&g\x18' size: 32
+mysql.connector - DEBUG - # server response packet: b'\x02\x00\x00\x05\x01\x03'
+mysql.connector - DEBUG - Exchanging further packets
+mysql.connector - DEBUG - caching_sha2_password completed succesfully
+werkzeug - INFO - 127.0.0.1 - - [10/May/2024 08:28:04] "GET /api/genres HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [10/May/2024 08:28:09] "OPTIONS /api/make_song HTTP/1.1" 200 -
+server - DEBUG - Received data: {'genre': 'Pop', 'dancability': '2', 'title': 'fgh'}
+mysql.connector - DEBUG - Building SSL context
+mysql.connector - DEBUG - Switching to SSL
+mysql.connector - DEBUG - SSL has been enabled
+mysql.connector - DEBUG - Starting authorization phase
+mysql.connector - DEBUG - The provided initial strategy is mysql_native_password
+mysql.connector - DEBUG - Server's response is an auth switch request
+mysql.connector - DEBUG - Switching to strategy caching_sha2_password
+mysql.connector - DEBUG - # request: b'n\xb4\x93\x9e\xf1\npOJ\xa9\x82Gu\xd0\xc1g&\xf8,\x89\x84QqI\xa4ZL+=qz6' size: 32
+mysql.connector - DEBUG - # server response packet: b'\x02\x00\x00\x05\x01\x03'
+mysql.connector - DEBUG - Exchanging further packets
+mysql.connector - DEBUG - caching_sha2_password completed succesfully
+root - ERROR - Error processing the make_song request: local variable 'list' referenced before assignment
+werkzeug - INFO - 127.0.0.1 - - [10/May/2024 08:28:09] "[35m[1mPOST /api/make_song HTTP/1.1[0m" 500 -
+werkzeug - INFO -  * Detected change in '/Users/serenawambafosso/Documents/CPSC_Courses/Database/musicAppv4/server/server.py', reloading

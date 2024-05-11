@@ -1,0 +1,20 @@
+Key_ID,Name,Note1,Note2,Note3,Note4,Note5,Note6,Note7,Mood_ID
+1,C Major,C,Dm,Em,F,G,Am,Bdim,1
+2,G Minor,Gm,Adim,Bb,Cm,Dm,Eb,F,2
+3,E Major,E,F#m,G#m,A,B,C#m,D#dim,3
+4,Db Major,Db,Ebm,Fm,Gb,Ab,Bbm,Cdim,4
+5,C Phrygian,C,Db,Eb,F,G,Ab,Bb,5
+6,C Minor,Cm,Ddim,Eb,Fm,Gm,Ab,Bb,6
+7,B Minor,Bm,C#dim,D,Em,F#m,G,A,7
+8,A minor ,Am,Bdim,C,Dm,Em,F,G,7
+9,F# major,F#,G#m,A#m,B,C#,D#m,Edim,8
+10,G major,G,Am,Bm,C,D,Em,F#dim,9
+11,F# minor,F#m,G#dim,A,Bm,C#m,D,E,4
+12,G# minor,G#m,A#dim,B,C#m,D#m,E,F#,2
+13,C# minor,C#m,D#dim,E,F#m,G#m,A,B,7
+14,F minor,Fm,Gdim,Ab,Bbm,Cm,Db,Eb,4
+15,D major,D,Em,F#m,G,A,Bm,C#dim,13
+16,E Minor,Em,F#dim ,G,Am,Bm,C,D,2
+17,Ab minor,Abm,Bbdim,Cbmaj,Dbmin,Ebmin,Fbmaj,Gbmaj,3
+18,B Major ,Bmaj,C#m,D#m,E,F#,G#m,A#dim,6
+19,D minor ,Dm,Edim,Fmaj,Gmin,Amin,Bbmaj,Cmaj,7
