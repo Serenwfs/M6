@@ -1,0 +1,76 @@
+/* styles/Login.module.css */
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Cedarville+Cursive&family=Dekko&family=Honk&family=Nanum+Gothic+Coding&family=Orbitron:wght@400..900&family=Patrick+Hand&family=Protest+Guerrilla&family=Rubik+Bubbles&family=Rubik+Glitch+Pop&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Cedarville+Cursive&family=Dekko&family=Honk&family=Nanum+Gothic+Coding&family=Orbitron:wght@400..900&family=Patrick+Hand&family=Protest+Guerrilla&family=Rubik+Bubbles&family=Rubik+Glitch+Pop&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Cedarville+Cursive&family=Dekko&family=Faster+One&family=Honk&family=Nanum+Gothic+Coding&family=Orbitron:wght@400..900&family=Patrick+Hand&family=Pixelify+Sans:wght@400..700&family=Protest+Guerrilla&family=Raleway:ital,wght@0,100..900;1,100..900&family=Rubik+Bubbles&family=Rubik+Glitch&family=Rubik+Glitch+Pop&family=Rubik+Maps&display=swap');
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #fbe8f2;  /* Adjust to the exact shade if needed */
+  }
+  
+  .form {
+    background: transparent;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .title {
+
+    /* font-family: "Raleway", sans-serif; */
+    font-family: "Arial";
+
+    /* font-family: "Rubik Glitch", system-ui; */
+    
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(0, 0, 0); /* Black color for the text */
+    margin-bottom: 100px;
+  }
+  
+  .inputField {
+    font-family: "Arial";
+    margin-bottom: 20px;
+    font-size: 18px;
+    color: #000000; /* Black for input labels */
+  }
+  
+  .input {
+    width: 300px; /* Adjust based on your design */
+    padding: 8px;
+    border: 2px solid red;
+    /* border-bottom: 2px solid red; Red underline */
+    margin-top: 8px;
+    margin-left: 20px;
+    background-color: transparent;
+    color: #000000;
+    font-size: 16px;
+    border-radius: 30px; /* Rounded edges */
+
+  }
+  
+  .button {
+    font-family: "Raleway", sans-serif;
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px; /* Rounded edges */
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  
+  .button:hover {
+    background-color: darkred; /* Darker red on hover */
+  }
+  
+  .message {
+    color: red;
+    margin-top: 10px;
+  }
+  
